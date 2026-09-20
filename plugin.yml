@@ -1,0 +1,6 @@
+name: MegaStack
+version: '1.0.0'
+main: com.benim.megastack.MegaStackPlugin
+api-version: '1.21'
+author: Sen
+description: Zirh/alet/silah haric tum itemlerin max stack sizeini 9999 yapar.
